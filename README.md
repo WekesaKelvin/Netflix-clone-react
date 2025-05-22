@@ -1,5 +1,4 @@
-# Netflix Clone 🎬
-
+# Netflix Clone 
 A sleek and fully responsive **Netflix Clone** built with **React**, mimicking the user interface and experience of the official Netflix app. This project integrates the **TMDB API** to dynamically fetch and display movie data.
 
 ## 🔥 Features
